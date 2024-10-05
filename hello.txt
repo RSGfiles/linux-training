@@ -2,3 +2,4 @@
 
 Hello Scott. Welcome to GitHub repository commits.
 This is another line I am adding to the hello.txt file
+Another line of test to practice git
